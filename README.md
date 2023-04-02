@@ -19,20 +19,20 @@
 <br/>
 <br/>
 <p align="left"><a href="https://www.buymeacoffee.com/arnooodles" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></p>
-<br/>
+
 <h3 align="left">🛠 Technical Skills</h3>
 <br/>
 <table align="left"  style="display: flex;">
   <tr >
     <th><h3>Languages</h3></th>
     <th><h3>Frameworks</h3></th>
-    <th><h3>BaaS | Database </h3></th>
+    <th><h3>BaaS/Database </h3></th>
     <th><h3>Repository</h3></th>
     <th><h3>Design</h3></th>
     <th><h3>Others</h3></th>
   </tr>
    <tr>
-    <td>
+    <td valign="top">
         <p>
             <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
             <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="dart" width="40" height="40"/>
@@ -46,7 +46,7 @@
             <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
         <p>
     </td>
-    <td>
+    <td valign="top">
         <p>
             <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
             <a href="https://www.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
@@ -58,7 +58,7 @@
             <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
             </p>
     </td>
-    <td>
+    <td valign="top">
          <p>
             <a href="https://www.supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
             <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>    
@@ -70,7 +70,7 @@
              <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="hive" width="40" height="40"/> </a>
             </p>
     </td>
-    <td>
+    <td valign="top">
         <p>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
         <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
@@ -79,7 +79,7 @@
         <a href="https://www.mercurial-scm.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mercurial-scm/mercurial-scm-icon.svg" alt="mercurial" width="40" height="40"/> </a>
         </p>
     </td>
-    <td>
+    <td valign="top">
             <p>
             <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
             <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
@@ -89,7 +89,7 @@
            <a href="https://photopea.com" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/Da7ZO__photopea.svg" alt="photopea" width="40" height="40"/></a>
             </p>
     </td>
-    <td>
+    <td valign="top">
             <p>
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
              <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
