@@ -37,13 +37,13 @@
             <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
             <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="dart" width="40" height="40"/>
             <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-              <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="python" width="40" height="40"/> </a> 
-             <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+            <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+            <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="python" width="40" height="40"/> </a> 
             <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="python" width="40" height="40"/> </a>
             <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
              <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-            <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+            <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
         <p>
     </td>
     <td valign="top" align="center">
@@ -51,10 +51,10 @@
             <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
             <a href="https://www.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
             <a href="https://www.unity.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
-             <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/> </a>
+            <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/> </a>
+            <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-6.0" target="_blank" rel="noreferrer"> <img src="https://www.secret-source.eu/wp-content/uploads/2017/11/microsoft-net-logo-300x300.jpg" alt="wpf" width="40" height="40"/> </a>
+            <a href="https://djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> 
             <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-             <a href="https://djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> 
-              <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-6.0" target="_blank" rel="noreferrer"> <img src="https://www.secret-source.eu/wp-content/uploads/2017/11/microsoft-net-logo-300x300.jpg" alt="wpf" width="40" height="40"/> </a>
             <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
             </p>
     </td>
@@ -62,48 +62,49 @@
          <p>
             <a href="https://www.supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
             <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>    
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/> </a> 
             <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+            <a href="https://isar.dev" target="_blank" rel="noreferrer"> <img src="https://isar.dev/isar.svg" alt="isar" width="40" height="40"/> </a> 
             <a href="https://docs.hivedb.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo_transparent.svg" alt="hive" width="80" height="40"/> </a>
-            <a href="https://isar.dev" target="_blank" rel="noreferrer"> <img src="https://isar.dev/isar.svg" alt="isar" width="40" height="40"/> </a>
             <a href="https://objectbox.io" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.rcOyhOC4X4ljhfQKzBW5ggHaHa?pid=ImgDet&rs=1" alt="objectbox" width="40" height="40"/> </a>
-             <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="hive" width="40" height="40"/> </a>
+             <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="hive" width="80" height="40"/> </a>
             </p>
     </td>
     <td valign="top" align="center">
         <p>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-        <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
         <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
+        <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
         <a href="https://bitbucket.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/> </a>
         <a href="https://www.mercurial-scm.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mercurial-scm/mercurial-scm-icon.svg" alt="mercurial" width="40" height="40"/> </a>
+         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
         </p>
     </td>
     <td valign="top" align="center">
             <p>
             <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
             <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-            <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+            <a href="https://photopea.com" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/Da7ZO__photopea.svg" alt="photopea" width="40" height="40"/></a>
             <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
            <a href="https://diagrams.net" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1200px-Diagrams.net_Logo.svg.png" alt="diagrams.net" width="40" height="40"/></a>
-           <a href="https://photopea.com" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/Da7ZO__photopea.svg" alt="photopea" width="40" height="40"/></a>
+           <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
             </p>
     </td>
     <td valign="top" align="center">
             <p>
+             <a href="https://bloclibrary.dev/#/" target="_blank" rel="noreferrer"> <img src="https://i1.wp.com/resocoder.com/wp-content/uploads/2020/08/blocsmol.png?w=694&ssl=1" alt="bloc" width="35" height="40"/></a>
+             <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo.png" alt="mockito" width="80" height="40"/></a>
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
              <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
              <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
-            <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-            <a href="https://bloclibrary.dev/#/" target="_blank" rel="noreferrer"> <img src="https://i1.wp.com/resocoder.com/wp-content/uploads/2020/08/blocsmol.png?w=694&ssl=1" alt="bloc" width="35" height="40"/></a>
-            <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo.png" alt="mockito" width="80" height="40"/></a>
+             <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+            <a href="https://codemagic.io" target="_blank" rel="noreferrer"> <img src="https://codemagic.io/media/landing/press-kit/svg/star-gradient.svg" alt="mockito" width="40" height="40"/></a>
+            <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
             <a href="https://jira.atlassian.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/></a>
             <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"> <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/46e8df0d-5429-40ee-b085-116cd8b7c92e.png?auto=format&q=50&fit=fill" alt="youtrack" width="40" height="40"/></a>
             <a href="https://phacility.com/phabricator/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/253_Phabricator_logo-1024.png" alt="phabricator" width="40" height="40"/></a>
-            <a href="https://codemagic.io" target="_blank" rel="noreferrer"> <img src="https://codemagic.io/media/landing/press-kit/svg/star-gradient.svg" alt="mockito" width="40" height="40"/></a>
-            <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-             <a href="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/4Y0IN__notion.svg" alt="notion" width="40" height="40"/></a>  
             <a href="https://confluence.atlassian.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" alt="confluence" width="40" height="40"/></a>
+            <a href="https://slite.com" target="_blank" rel="noreferrer"> <img src="https://images.saasworthy.com/tr:w-200,h-0/slite_2787_logo_1611815897_pwuam.png" alt="slite" width="40" height="40"/></a> 
+            <a href="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/4Y0IN__notion.svg" alt="notion" width="40" height="40"/></a>
              <a href="https://www.office.com" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/vl/121686/png/Microsoft_Office_logo__2019-present_.png" alt="office" width="40" height="40"/></a>
             <a href="https://workspace.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.ostratto.com/products/platforms/g-suite/G-Suite.jpg" alt="gsuite" width="40" height="40"/></a>
             </p>
