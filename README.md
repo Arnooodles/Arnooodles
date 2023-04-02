@@ -2,31 +2,25 @@
 
 <h1 align="center">Hi 👋, I'm <b>Arnold</b></h1>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
-<h2 align="left">A Software Engineer</h2>
+
+<h3 align="left">A Software Engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 - 🔭 I’m currently working as a **Flutter Developer** in a **Fintech Company**
 - 🌱 I'm currently learing **Supabase 𝚊𝚗𝚍 UI/UX Design.**
 - 💬 Ask me about **Flutter 'cause I love Flutter**
 - 📫 How to reach me: **aj.lum07@gmail.com**
-
-<br/>
 <h3 align="left" >Connect with me:</h3>
 <br/>
-<table>
-    <tr>
-        <td><a href="https://www.linkedin.com/in/arnold-jr-lumangtad-8a193b169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnooodles" height="40" width="50" /></a></td>
-        <td><a href="https://www.facebook.com/Arnooodles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arnooodles" height="40" width="50" /></a></td>
-        <td><a href="https://www.instagram.com/arnoooodles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnooodles" height="40" width="50" /></a></td>
-    </tr>
-    
-</table>
+<a href="https://www.linkedin.com/in/arnold-jr-lumangtad-8a193b169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnooodles" height="40" width="50" /></a>
+<a href="https://www.facebook.com/Arnooodles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arnooodles" height="40" width="50" /></a>
+<a href="https://www.instagram.com/arnoooodles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnooodles" height="40" width="50" /></a>
+<br/>
 <br/>
 <p align="left"><a href="https://www.buymeacoffee.com/arnooodles" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></p>
 <br/>
-<br/>
-<h2 align="center">🛠 Technical Skills</h2>
+<h3 align="left">🛠 Technical Skills</h3>
 <br/>
 <table align="left"  style="display: flex;">
   <tr >
@@ -39,7 +33,6 @@
   </tr>
    <tr>
     <td>
-        <div>
         <p>
             <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
             <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="dart" width="40" height="40"/>
@@ -52,10 +45,8 @@
              <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
             <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
         <p>
-        </div>
     </td>
     <td>
-        <div>
         <p>
             <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
             <a href="https://www.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
@@ -66,10 +57,8 @@
               <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-6.0" target="_blank" rel="noreferrer"> <img src="https://www.secret-source.eu/wp-content/uploads/2017/11/microsoft-net-logo-300x300.jpg" alt="wpf" width="40" height="40"/> </a>
             <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
             </p>
-        </div>
     </td>
     <td>
-        <div>
          <p>
             <a href="https://www.supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
             <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>    
@@ -80,10 +69,8 @@
             <a href="https://objectbox.io" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.rcOyhOC4X4ljhfQKzBW5ggHaHa?pid=ImgDet&rs=1" alt="objectbox" width="40" height="40"/> </a>
              <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="hive" width="40" height="40"/> </a>
             </p>
-        </div>
     </td>
     <td>
-        <div>
         <p>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
         <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
@@ -91,10 +78,8 @@
         <a href="https://bitbucket.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/> </a>
         <a href="https://www.mercurial-scm.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mercurial-scm/mercurial-scm-icon.svg" alt="mercurial" width="40" height="40"/> </a>
         </p>
-        </div>
     </td>
     <td>
-        <div>
             <p>
             <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
             <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
@@ -103,10 +88,8 @@
            <a href="https://diagrams.net" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1200px-Diagrams.net_Logo.svg.png" alt="diagrams.net" width="40" height="40"/></a>
            <a href="https://photopea.com" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/Da7ZO__photopea.svg" alt="photopea" width="40" height="40"/></a>
             </p>
-        </div>
     </td>
     <td>
-        <div>
             <p>
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
              <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
@@ -123,17 +106,22 @@
              <a href="https://www.office.com" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/vl/121686/png/Microsoft_Office_logo__2019-present_.png" alt="office" width="40" height="40"/></a>
             <a href="https://workspace.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.ostratto.com/products/platforms/g-suite/G-Suite.jpg" alt="gsuite" width="40" height="40"/></a>
             </p>
-        </div>
     </td>
   </tr>
 </table>
 
-<h2 align="center">🔥 My Stats</h2>
-<br/>
-<table align="center">
-        <tr>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arnooodles&show_icons=true&locale=en&theme=tokyonight" alt="Arnooodles" /></td>
-            <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnooodles&theme=tokyonight" alt="Arnooodles" /></td>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnooodles&layout=compact&theme=tokyonight" alt="Arnooodles" /></td>
-        </tr>
-</table>
+<h3 align="left">🔥 My Stats</h3>
+</br>
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Arnooodles&show_icons=true&locale=en&theme=tokyonight" alt="Arnooodles" />
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Arnooodles&theme=tokyonight" alt="Arnooodles" />
+</p>
+</br>    
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Arnooodles" alt="Arnooodles" /></p>  
+    
+    
+
+
+
+
