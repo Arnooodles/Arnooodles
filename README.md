@@ -116,7 +116,9 @@
 </br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arnooodles&show_icons=true&locale=en&theme=tokyonight" alt="Arnooodles" />
+</p>
 &nbsp; &nbsp; &nbsp; &nbsp;
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnooodles&theme=tokyonight" alt="Arnooodles" />
 </p>
 </br>    
