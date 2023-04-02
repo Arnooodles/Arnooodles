@@ -114,9 +114,9 @@
 <h3 align="left">🔥 My Stats</h3>
 </br>
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Arnooodles&show_icons=true&locale=en&theme=tokyonight" alt="Arnooodles" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arnooodles&show_icons=true&locale=en&theme=tokyonight" alt="Arnooodles" />
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Arnooodles&theme=tokyonight" alt="Arnooodles" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arnooodles&theme=tokyonight" alt="Arnooodles" />
 </p>
 </br>    
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Arnooodles" alt="Arnooodles" /></p>  
