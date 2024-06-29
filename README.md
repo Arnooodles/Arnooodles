@@ -1,5 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://github.com/jatindevnani)
-
 <h1 align="center">Hi 👋, I'm <b>Arnold</b></h1>
 
 
@@ -8,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 - 🔭 I’m currently working as a **Flutter Developer** in a **Fintech Company**
-- 🌱 I'm currently learing **Supabase 𝚊𝚗𝚍 UI/UX Design.**
+- 🌱 I'm currently learing **Serverpod 𝚊𝚗𝚍 UI/UX Design.**
 - 💬 Ask me about **Flutter 'cause I love Flutter**
 - 📫 How to reach me: **aj.lum07@gmail.com**
 <h3 align="left" >Connect with me:</h3>
@@ -49,24 +47,24 @@
     <td valign="top" align="center">
         <p>
             <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+            <a href="https://serverpod.dev/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/id_kFrFJ9i/idu4rHrN6A.jpeg" alt="serverpod" width="40" height="40"/> </a> 
             <a href="https://www.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
             <a href="https://www.unity.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
             <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/> </a>
             <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-6.0" target="_blank" rel="noreferrer"> <img src="https://www.secret-source.eu/wp-content/uploads/2017/11/microsoft-net-logo-300x300.jpg" alt="wpf" width="40" height="40"/> </a>
             <a href="https://djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> 
-            <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+            <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a> 
             <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
             </p>
     </td>
     <td valign="top" align="center">
          <p>
             <a href="https://www.supabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> </a>
-            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>    
+            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/> </a> 
             <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
             <a href="https://isar.dev" target="_blank" rel="noreferrer"> <img src="https://isar.dev/isar.svg" alt="isar" width="40" height="40"/> </a> 
             <a href="https://docs.hivedb.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo_transparent.svg" alt="hive" width="80" height="40"/> </a>
-            <a href="https://objectbox.io" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.rcOyhOC4X4ljhfQKzBW5ggHaHa?pid=ImgDet&rs=1" alt="objectbox" width="40" height="40"/> </a>
              <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="hive" width="80" height="40"/> </a>
             </p>
     </td>
@@ -82,7 +80,7 @@
     <td valign="top" align="center">
             <p>
             <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-            <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+            <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/> </a> 
             <a href="https://photopea.com" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/Da7ZO__photopea.svg" alt="photopea" width="40" height="40"/></a>
             <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
            <a href="https://diagrams.net" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1200px-Diagrams.net_Logo.svg.png" alt="diagrams.net" width="40" height="40"/></a>
