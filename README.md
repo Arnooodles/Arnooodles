@@ -74,13 +74,14 @@
             <img src="https://img.shields.io/badge/Retrofit-563D7C?logo=retrofit&logoColor=white" alt="Retrofit">
             <img src="https://img.shields.io/badge/Mockito-4caf50?logo=mockito&logoColor=white" alt="Mockito">
             <img src="https://img.shields.io/badge/Flutter%20Hooks-0175C2?logo=flutter&logoColor=white" alt="Flutter Hooks ">
+            <img src="https://img.shields.io/badge/GoRouter-2C8EBB?logo=go&logoColor=white" alt="go_router">
+            <img src="https://img.shields.io/badge/AutoRoute-48A9A6?logo=routing&logoColor=white" alt="auto_route">
             <img src="https://img.shields.io/badge/Maestro-FF4A00?logo=data:image/svg+xml;base64,maestro_logo_base64_string&logoColor=white" alt="Maestro">
             <img src="https://img.shields.io/badge/Appium-00C7C7?logo=appium&logoColor=white" alt="Appium">
             <img src="https://img.shields.io/badge/Robot%20Framework-000000?logo=robot-framework&logoColor=white" alt="Robot Framework">
             <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white" alt="NPM" />
             <img src="https://img.shields.io/badge/Pub-0175C2?logo=dart&logoColor=white" alt="pub.dev">
             <img src="https://img.shields.io/badge/BrickHub-F28D00?logo=brickhub&logoColor=white" alt="BrickHub">
-            <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white" alt="Bootstrap" /> 
         </td>
          <td valign="top" align="center">
             <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" /> 
@@ -132,10 +133,11 @@
             <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" alt="Notion" />
             <img src="https://img.shields.io/badge/Slite-2dce89?logo=slite&logoColor=white" alt="Slite ">
             <img src="https://img.shields.io/badge/G%20Suite-4285F4?logo=google&logoColor=white" alt="G Suite">
-            <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" alt="Microsoft Office">
+            <img src="https://img.shields.io/badge/MS%20Office-D83B01?logo=microsoft-office&logoColor=white" alt="Microsoft Office">
             <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
             <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white" alt="Docker" />
             <img src="https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white" alt="Gradle" />
+            <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white" alt="Bootstrap" /> 
             <img src="https://img.shields.io/badge/CodeCov-%23ff0077.svg?logo=codecov&logoColor=white" alt="CodeCov" /> 
             <img src="https://img.shields.io/badge/Meta-%230467DF.svg?logo=Meta&logoColor=white" alt="Meta" />   
             <img src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white" alt="Arduino" /> 
