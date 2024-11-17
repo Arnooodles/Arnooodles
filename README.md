@@ -22,7 +22,7 @@
 
 ## 💻 Tech Stack
 
-<table border="1">
+<table border="1" align="center">
    <thead>
       <tr>
          <th style="text-align: center;">LANGUAGES</th>
@@ -35,7 +35,7 @@
    </thead>
    <tbody>
       <tr>
-         <td style="text-align: center; vertical-align: top;">
+         <td valign="top" align="center">
             <img src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart" /> 
             <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python" />
             <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" />
@@ -56,7 +56,7 @@
             <img src="https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?logo=apple&logoColor=white" alt="Objective-C" />
             <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?logo=assemblyscript&logoColor=white" alt="AssemblyScript" />  
         </td>
-         <td style="text-align: center; vertical-align: top;"> 
+         <td valign="top" align="center"> 
             <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white" alt="Flutter" />
             <img src="https://img.shields.io/badge/Serverpod-blue?logo=https://asset.brandfetch.io/id_kFrFJ9i/idu4rHrN6A.jpeg&logoColor=white" alt="Serverpod"> 
             <img src="https://img.shields.io/badge/Android-green?logo=android&logoColor=white" alt="Android" />
@@ -73,7 +73,7 @@
             <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white" alt="Bootstrap" /> 
              <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?logo=codeIgniter&logoColor=white" alt="Code-Igniter" /> 
         </td>
-         <td style="text-align: center; vertical-align: top;">
+         <td valign="top" align="center">
             <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" /> 
             <img src="https://img.shields.io/badge/firebase-a08021?logo=firebase&logoColor=ffcd34" alt="Firebase" />
             <img src="https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres" />  
@@ -84,7 +84,7 @@
             <img src="https://img.shields.io/badge/Drift-purple?logo=drift&logoColor=white" alt="Drift">
             <img src="https://img.shields.io/badge/Isar-orange?logo=isar&logoColor=white" alt="Isar">
         </td>
-         <td style="text-align: center; vertical-align: top;">
+         <td valign="top" align="center">
             <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" alt="Git" />
             <img src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
             <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white" alt="GitHub Actions" />  
@@ -96,7 +96,7 @@
             <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?logo=gitlab&logoColor=white" alt="GitLab CI" /> 
             <img src="https://img.shields.io/badge/mercurial-999999.svg?logo=mercurial&logoColor=white" alt="Mercurial" />
         </td>
-         <td style="text-align: center; vertical-align: top;">
+         <td valign="top" align="center">
             <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white" alt="Figma" />
             <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white" alt="Adobe XD">
             <img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" alt="Dribbble" />
@@ -112,7 +112,7 @@
             <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects" /> 
             <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Adobe Acrobat Reader" />     
         </td>
-        <td style="text-align: center; vertical-align: top;">
+        <td valign="top" align="center">
             <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white" alt="Jira" />
             <img src="https://img.shields.io/badge/YouTrack-000000?logo=youtrack&logoColor=white" alt="YouTrack">
             <img src="https://img.shields.io/badge/Phabricator-4A5699?logo=phabricator&logoColor=white" alt="Phabricator"> 
@@ -142,10 +142,11 @@
   <p><img src="https://github-profile-trophy.vercel.app/?username=Arnooodles&amp;theme=nord" alt=""></p>
 
 
-<table style="margin: 0; border: 0; border-collapse: collapse;">
+
+<table align="center">
     <tr>
-        <td style="border: 0;"> <img src="https://github-readme-stats.vercel.app/api?username=Arnooodles&amp;theme=github_dark_dimmed&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt=""></td>
-        <td style="border: 0;"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnooodles&amp;theme=github_dark_dimmed&amp;hide_border=false" alt=""></td>
+        <td> <img src="https://github-readme-stats.vercel.app/api?username=Arnooodles&amp;theme=github_dark_dimmed&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt=""></td>
+        <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnooodles&amp;theme=github_dark_dimmed&amp;hide_border=false" alt=""></td>
     </tr>
 </table>
 
